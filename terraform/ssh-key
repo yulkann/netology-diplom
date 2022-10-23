@@ -1,0 +1,8 @@
+#cloud-config
+users:
+  - name: yulka
+    groups: sudo
+    shell: /bin/bash
+    sudo: ['ALL=(ALL) NOPASSWD:ALL']
+    ssh-authorized-keys:
+      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBIv2ELuy3S88ZlcE9wBsqxA4y6qh1XoGBWx62qGethM yulka@yulka98356
