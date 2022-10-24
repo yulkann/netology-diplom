@@ -57,8 +57,7 @@ https://github.com/yulkann/netology-diplom/tree/main/ansible
 
 
   - `https://alertmanager.you.domain` (Alert Manager)
-
-![изображение](https://user-images.githubusercontent.com/91043924/197417921-bedaeba0-c433-42fd-85ef-f8d099032c46.png)
+![изображение](https://user-images.githubusercontent.com/91043924/197486414-990d9525-f3e9-40ab-90c6-4835f7914075.png)
 
 
 6. Все репозитории рекомендуется хранить на одном из ресурсов ([github.com](https://github.com) или [gitlab.com](https://gitlab.com)).
