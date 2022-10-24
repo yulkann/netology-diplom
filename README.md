@@ -30,11 +30,11 @@
 
 1. Репозиторий со всеми Terraform манифестами и готовность продемонстрировать создание всех ресурсов с нуля.
 
-https://github.com/yulkann/devops-diplom-yandexcloud/terraform
+https://github.com/yulkann/netology-diplom/terraform
 
 3. Репозиторий со всеми Ansible ролями и готовность продемонстрировать установку всех сервисов с нуля.
 
-https://github.com/yulkann/devops-diplom-yandexcloud/ansible
+https://github.com/yulkann/netology-diplom/ansible
 
 5. Скриншоты веб-интерфейсов всех сервисов работающих по HTTPS на вашем доменном имени.
   - `https://www.you.domain` (WordPress)
@@ -48,12 +48,12 @@ https://github.com/yulkann/devops-diplom-yandexcloud/ansible
 
   - `https://grafana.you.domain` (Grafana)
 
-![изображение](https://user-images.githubusercontent.com/91043924/197417819-04f46ea6-5003-4625-9e97-4f51b4820973.png)
+![изображение](https://user-images.githubusercontent.com/91043924/197483223-6a653bb2-2b47-4f8d-8b57-2faac20c09cb.png)
 
 
   - `https://prometheus.you.domain` (Prometheus)
 
-![изображение](https://user-images.githubusercontent.com/91043924/197417902-c15310a3-e639-4b2c-9613-3ea8f89eeeb0.png)
+![изображение](https://user-images.githubusercontent.com/91043924/197483402-21dcc402-69b7-42e0-a95c-5e78897a36e1.png)
 
 
   - `https://alertmanager.you.domain` (Alert Manager)
