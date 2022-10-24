@@ -30,11 +30,11 @@
 
 1. Репозиторий со всеми Terraform манифестами и готовность продемонстрировать создание всех ресурсов с нуля.
 
-https://github.com/yulkann/netology-diplom/terraform
+https://github.com/yulkann/netology-diplom/tree/main/terraform
 
 3. Репозиторий со всеми Ansible ролями и готовность продемонстрировать установку всех сервисов с нуля.
 
-https://github.com/yulkann/netology-diplom/ansible
+https://github.com/yulkann/netology-diplom/tree/main/ansible
 
 5. Скриншоты веб-интерфейсов всех сервисов работающих по HTTPS на вашем доменном имени.
   - `https://www.you.domain` (WordPress)
